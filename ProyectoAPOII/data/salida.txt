@@ -1,0 +1,2 @@
+Para la partida numero 1 el puntaje es : 0
+El mayor puntaje fue el de la partida 1 con un puntaje de : 0
