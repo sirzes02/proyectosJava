@@ -1,0 +1,51 @@
+3
+Mago de oz
+1998-06-24
+2003-09-05
+0
+./img/mago_de_oz.jpg
+2
+Ira Dei
+Rock
+2019-07-06
+./img/mago_de_oz-ira_dei.jpg
+2
+In Eternum
+09:01
+Opera Mortis
+02:42
+Finisterra
+Folk metal
+2000-05-19
+./img/mago_de_oz-finisterra.jpg
+1
+Los renglones torcidos de Dios
+06:31
+Cream
+1966-02-04
+1968-05-25
+1
+./img/cream.jpg
+1
+wheels of fire
+Blues rock
+1968-08-09
+./img/cream-wheels_of_fire.jpg
+1
+White room
+04:58
+Bad Bunny
+1994-03-10
+2017-11-13
+0
+./img/bad_bunny.jpg
+1
+YHLQMDLG
+Latin trap
+2020-02-28
+./img/bad_bunny-yhlqmdlg.jpg
+2
+Y si veo a tu mama
+02:50
+Yo perreo sola
+02:52
